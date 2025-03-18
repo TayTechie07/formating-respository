@@ -1,1 +1,2 @@
 # formating-respository
+John Doe is a 29-year-old Software Engineer at Tech Innovations Ltd.<br/> **With five years of experience in the field, he has developed expertise in Python, JavaScript, SQL, React, and Node.js.** He holds a ***BSc in Computer Science*** and has a strong passion for building innovative solutions.<br/> Currently based in _Springfield_, IL, he actively works on developing and optimizing software applications. His <ins>technical skills</ins>, combined with a problem-solving mindset, make him a valuable asset in the tech industry.
